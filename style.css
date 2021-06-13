@@ -23,11 +23,13 @@ body {
 
 h1 {
 	margin: 10px 0 0;
+	color: var(--border-color);
 }
 
 h3 {
 	font-weight: 400px;
 	margin: 10px 0;
+	color: var(--border-color);
 }
 
 .fa-person-swimming{
